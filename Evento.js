@@ -2,7 +2,7 @@
 
 let DataEvento = 7
 
-if (DataEvento >= 7) {
+if (DataEvento >= 7, DataEvento < 28) {
     console. log("Data disponivel")
 } else {
     console. log("Data indisponivel")
